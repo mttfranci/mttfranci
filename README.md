@@ -24,7 +24,7 @@
 
 (1) Only servlet container, not fully compliant J2EE application server.
 
-Collabor ai progetti di alcune organizzazioni github :
+La maggior parte dei progetti cui collaboro sono ospitati dalle organizzazioni GitHub :
 - [Fugerit Org](https://github.com/fugerit-org) 
 - [Caffetteria](https://github.com/caffetteria)
 - [Developers Italia](https://github.com/italia) 
